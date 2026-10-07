@@ -1,5 +1,7 @@
-ollama
-sentence-transformers
-transformers
+langchain
+langchain-ollama
 numpy
+pydantic
+sentence-transformers
 streamlit
+transformers
